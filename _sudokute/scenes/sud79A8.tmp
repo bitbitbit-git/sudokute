@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dl4ifpe200kyp"]
+
+[ext_resource type="Script" path="res://scenes/sudoku_grid.gd" id="1_5020x"]
+
+[node name="sudoku_grid" type="Node2D"]
+script = ExtResource("1_5020x")
